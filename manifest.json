@@ -7,7 +7,7 @@
   "display": "standalone",
   "orientation": "portrait",
   "scope": "/",
-  "start_url": "https://www.mkeasy.kro.kr/past-weather/",
+  "start_url": "https://www.mkeasy.kro.kr/weather",
   "icons": [
     {
       "src": "icons/icon_192.png",
