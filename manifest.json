@@ -7,7 +7,7 @@
   "display": "standalone",
   "orientation": "portrait",
   "scope": "/",
-  "start_url": "https://www.mkeasy.kro.kr/weather",
+  "start_url": "https://www.mkeasy.kro.kr/weather/129/2022/09",
   "icons": [
     {
       "src": "icons/icon_192.png",
